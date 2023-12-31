@@ -1,2 +1,2 @@
 # AI.repo
-First Ai based Project for Home security purpos.
+First Ai based Project for Home security purpose.
